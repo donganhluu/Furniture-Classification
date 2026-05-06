@@ -8,7 +8,7 @@ Chair, Table, Sofa, Cabinat Classification using ResNet 18
 | table dataset   | 96      | 21     | 21     | 138     |
 | Total           | 388     |83      | 85     | 556     |
 
-Tỷ lệ theo từng tập (split):  Train: 69.8% ,Val: 14.9%, Test: 15.3%  |
+Tỷ lệ theo từng tập (split):  Train: 69.8% ,Val: 14.9%, Test: 15.3%  
 
 Train Accuracy,Val Accuracy
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/c0853852-0c1d-428a-82d8-7a8424641e9a" />
